@@ -1,6 +1,6 @@
 
-<h2 align="left">Hi 👋, I'm Amna Mansoor</h2>
-<h3 align="left">A Software Engineer from Karachi, Pakistan 🚀</h3>
+<h2 align="centre">Hi, I'm Amna </h2>
+<h3 align="centre">Your Friendly Neighbourhood Software Engineer </h3>
 
 ###
 
@@ -8,17 +8,17 @@
 
 ###
 
-I'm a **final-year CS student** at FAST NUCES, consistently making Dean's List because I actually care about what I build. My sweet spot? **Full-stack development** meets **machine learning** meets **cloud architecture**. 
+I'm a **final-year Software Engineering student** at FAST NUCES, passionate about **Full-stack development** meets **machine learning** meets **cloud architecture**. 
 
 Here's what I geek out about:
 
-⚡ **Building Real Solutions** — From sign language recognition apps to serverless organ matching systems. Everything is tested, documented, and deployed.
+⚡ **Building Real Solutions**-> From sign language recognition apps to serverless organ matching systems. Everything is tested, documented, and deployed.
 
-🧠 **Machine Learning** — Trained models on 15,000+ videos. ST-GCN, LSTM, MediaPipe, OpenCV—I speak their language.
+🧠 **Machine Learning** -> Trained models on 15,000+ videos. ST-GCN, LSTM, MediaPipe, OpenCV—I speak their language.
 
-☁️ **Cloud Native** — AWS enthusiast. Lambdas, SQS, SNS, CloudFormation. Serverless isn't just a buzzword, it's a lifestyle.
+☁️ **Cloud Native** -> AWS enthusiast. Lambdas, SQS, SNS, CloudFormation. Serverless isn't just a buzzword, it's a lifestyle.
 
-💻 **Clean Code Advocate** — Technical writer by day, debugger by night. Code should be readable AND functional.
+💻 **Clean Code Advocate** -> Technical writer by day, debugger by night. Code should be readable AND functional.
 
 ###
 
@@ -186,11 +186,7 @@ Here's what I geek out about:
   <img width="12" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-  </a>
-  <img width="12" />
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+
 </div>
 
 ###
@@ -199,7 +195,7 @@ Here's what I geek out about:
 
 ## 🎯 Featured Projects
 
-<details open>
+<details>
 <summary><b>🤟 PSL Sign Language Recognition App</b> | <i>Final Year Project</i></summary>
 
 **The Mission:** Teaching machines to understand Pakistan Sign Language—because everyone deserves to be heard.
@@ -293,17 +289,14 @@ Here's what I geek out about:
   </a>
   <a href="mailto:amnamansoor2468@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://twitter.com/amna_mansoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
+
 </div>
 
 ###
 
 ---
 
-## 📈 Contribution Graph
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amna-mansoor/amna-mansoor/output/github-contribution-grid-snake-dark.svg">
@@ -314,7 +307,7 @@ Here's what I geek out about:
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🎯 What's Next?
 
@@ -330,10 +323,3 @@ I'm currently exploring:
 
 ###
 
-<div align="center">
-
-*Built with ☕ + curiosity + late-night debugging sessions* 
-
-**Happy coding!** ✨
-
-</div>
