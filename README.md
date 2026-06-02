@@ -24,16 +24,6 @@ Here's what I geek out about:
 
 <br clear="both">
 
----
-
-## 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amna-mansoor&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-mansoor&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
 
 ---
 
@@ -297,7 +287,7 @@ Here's what I geek out about:
 ---
 
 
-
+![GitHub Contribution Calendar](https://github-contributions-calendar.vercel.app/api/amna-mansoor)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amna-mansoor/amna-mansoor/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amna-mansoor/amna-mansoor/output/github-contribution-grid-snake.svg">
