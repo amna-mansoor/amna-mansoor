@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Amna</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h1 align="center">Hi there, I'm Amna! 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amna-mansoor" alt="amna-mansoor" /></a> </p>
+<h3 align="center">Software Engineer | Full-Stack, AI/ML & Cloud Enthusiast</h3>
 
-- 📫 How to reach me **amnamansoor2468@gmail.com**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amna-mansoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amna-mansoor" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/75300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="75300" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Anime Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqejR4NnF2eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JmVwPXYxX2dpZnNfc2VhcmNoJmN0PWc/y5W98f6N3XJ4Xh5b8M/giphy.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+* [cite_start]🎓 **Software Engineering student** at FAST-NUCES (Dean's List)[cite: 5, 9, 10].
+* [cite_start]🛠️ **Passionate about** building full-stack applications, machine learning pipelines, and serverless cloud systems[cite: 5].
+* [cite_start]💼 **Currently:** Teaching Assistant for Technical & Business Writing [cite: 23] [cite_start]and Brand Ambassador at IDP Education[cite: 27].
+* [cite_start]🧩 **Interests:** AI research, competitive programming, and creating sleek, modern UI designs[cite: 18, 19].
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amna-mansoor&show_icons=true&locale=en&layout=compact" alt="amna-mansoor" /></p>
+### 📡 Let's Connect
+<div align="left">
+  <a href="mailto:amnamansoor2468@gmail.com"> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="email"/>
+  </a>
+  <a href="https://linkedin.com/in/amna-mansoor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin"/>
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-mansoor&" alt="amna-mansoor" /></p>
+<hr>
+
+### 🛠️ Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, JavaScript, Java, Dart, C [cite: 12] |
+| **Frameworks** | [cite_start]React, Node.js, Flutter, TensorFlow, Keras [cite: 15, 16] |
+| **Cloud/DevOps** | [cite_start]AWS (Lambda, SAM, SQS), Firebase, Git, Vercel [cite: 16] |
+| **AI/ML** | [cite_start]ST-GCN, LSTM, CNN, MediaPipe, OpenCV [cite: 15, 18] |
+| **Design** | [cite_start]Figma, UI/UX, Technical Writing [cite: 19] |
+
+<hr>
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amna-mansoor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amna-mansoor&layout=compact&theme=dracula" height="150" alt="languages"/>
+</div>
+
+### 📅 Contribution Graph
+*(Note: To get the animation like your friend's, you can use the [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) or similar automation tools)*
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amna-mansoor&theme=dracula&hide_border=true" alt="activity graph"/>
