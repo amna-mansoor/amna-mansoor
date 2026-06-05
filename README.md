@@ -298,7 +298,7 @@ I'm currently exploring:
 - Cloud-native design patterns
 - Building tools that solve real problems
 
-**Looking for collaborators!** Got an interesting problem to solve? Let's build something amazing together. 🚀
+**Looking for collaborators!** Got an interesting problem to solve? Let's build something amazing together!
 
 </div>
 
