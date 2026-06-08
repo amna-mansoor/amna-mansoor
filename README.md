@@ -14,9 +14,9 @@ Here's what I geek out about:
 
 ⚡ **Building Real Solutions**-> From sign language recognition apps to serverless organ matching systems. Everything is tested, documented, and deployed.
 
-🧠 **Machine Learning** -> Trained models on 15,000+ videos. ST-GCN, LSTM, MediaPipe, OpenCV—I speak their language.
+🧠 **Machine Learning** -> Trained models on 15,000+ videos. ST-GCN, LSTM, MediaPipe, OpenCV.
 
-☁️ **Cloud Native** -> AWS enthusiast. Lambdas, SQS, SNS, CloudFormation. Serverless isn't just a buzzword, it's a lifestyle.
+☁️ **Cloud Native** -> AWS enthusiast. Lambdas, SQS, SNS, CloudFormation. 
 
 💻 **Clean Code Advocate** -> Technical writer by day, debugger by night. Code should be readable AND functional.
 
