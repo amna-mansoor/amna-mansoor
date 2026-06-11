@@ -183,9 +183,6 @@ Here's what I geek out about:
 
 ---
 
-
----
-
 ## 🌐 Connect With Me
 
 <div align="left">
