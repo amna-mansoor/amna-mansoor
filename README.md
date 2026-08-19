@@ -6,10 +6,10 @@
 Software Engineer with hands-on experience building full-stack applications, AI/ML pipelines, and cloud-native systems. Background in deep learning-based sign language recognition, with published research on the topic. Currently working across AI automation and backend engineering roles.
 
 **Areas of focus:**
-- **Full-stack development** — building and deploying end-to-end applications, from mobile apps to serverless backends
-- **Machine learning** — model training and evaluation on real-world datasets (ST-GCN, LSTM, MediaPipe, OpenCV)
-- **Cloud & automation** — AWS-based serverless architectures, workflow automation with n8n and REST APIs
-- **Technical writing** — documentation, research papers, and clear communication across technical and non-technical audiences
+- **Full-stack development** - building and deploying end-to-end applications, from mobile apps to serverless backends
+- **Machine learning** - model training and evaluation on real-world datasets (ST-GCN, LSTM, MediaPipe, OpenCV)
+- **Cloud & automation** - AWS-based serverless architectures, workflow automation with n8n and REST APIs
+- **Technical writing** - documentation, research papers, and clear communication across technical and non-technical audiences
 
 ---
 
@@ -97,10 +97,7 @@ Software Engineer with hands-on experience building full-stack applications, AI/
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <img width="12" />
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+
 </div>
 
 ###
