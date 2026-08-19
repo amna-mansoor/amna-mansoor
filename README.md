@@ -1,33 +1,19 @@
-
-<h2 align="centre">Hi, I'm Amna </h2>
-<h3 align="centre">Your Friendly Neighbourhood Software Engineer </h3>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDQycThxeTF0bjZsdm1iYXRnNW0yN2Q2a2QxZjd3cmZhdHQ5eGUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HS9wBdVezkqD9ob80o/giphy.gif" alt="Coding animation" />
+<h2 align="center">Amna Mansoor</h2>
+<h3 align="center">Software Engineer | AI/ML · Full-Stack</h3>
 
 ###
 
-I'm a **final-year Software Engineering student** at FAST NUCES, passionate about **Full-stack development** meets **machine learning** meets **cloud architecture**. 
+Software Engineer with hands-on experience building full-stack applications, AI/ML pipelines, and cloud-native systems. Background in deep learning-based sign language recognition, with published research on the topic. Currently working across AI automation and backend engineering roles.
 
-Here's what I geek out about:
-
-⚡ **Building Real Solutions**-> From sign language recognition apps to serverless organ matching systems. Everything is tested, documented, and deployed.
-
-🧠 **Machine Learning** -> Trained models on 15,000+ videos. ST-GCN, LSTM, MediaPipe, OpenCV.
-
-☁️ **Cloud Native** -> AWS enthusiast. Lambdas, SQS, SNS, CloudFormation. 
-
-💻 **Clean Code Advocate** -> Technical writer by day, debugger by night. Code should be readable AND functional.
-
-###
-
-<br clear="both">
-
+**Areas of focus:**
+- **Full-stack development** — building and deploying end-to-end applications, from mobile apps to serverless backends
+- **Machine learning** — model training and evaluation on real-world datasets (ST-GCN, LSTM, MediaPipe, OpenCV)
+- **Cloud & automation** — AWS-based serverless architectures, workflow automation with n8n and REST APIs
+- **Technical writing** — documentation, research papers, and clear communication across technical and non-technical audiences
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 
@@ -96,8 +82,16 @@ Here's what I geek out about:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
   <img width="12" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <img width="12" />
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <img width="12" />
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -130,6 +124,10 @@ Here's what I geek out about:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
   </a>
   <img width="12" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <img width="12" />
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
@@ -141,7 +139,7 @@ Here's what I geek out about:
 
 ###
 
-### Cloud & DevOps
+### Cloud, DevOps & Automation
 
 <div align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -158,6 +156,10 @@ Here's what I geek out about:
   <img width="12" />
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+  </a>
+  <img width="12" />
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"/>
   </a>
 </div>
 
@@ -176,14 +178,14 @@ Here's what I geek out about:
   <img width="12" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
-
+  </a>
 </div>
 
 ###
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 <div align="left">
   <a href="https://github.com/amna-mansoor" target="_blank">
@@ -194,28 +196,5 @@ Here's what I geek out about:
   </a>
   <a href="mailto:amnamansoor2468@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-
+  </a>
 </div>
-
-###
-
-
-
----
-
-<div align="left">
-
-## 🎯 What's Next?
-
-I'm currently exploring:
-- Advanced ML architectures & optimization
-- Scaling serverless systems
-- Cloud-native design patterns
-- Building tools that solve real problems
-
-**Looking for collaborators!** Got an interesting problem to solve? Let's build something amazing together!
-
-</div>
-
-###
-
